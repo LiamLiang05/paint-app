@@ -15,6 +15,7 @@ public class P2_Liam_Liang {
      */
     public static void main(String[] args) {
         DrawingApp app = new DrawingApp();
+        
     }
     
 }
